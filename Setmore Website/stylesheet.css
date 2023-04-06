@@ -1,0 +1,38 @@
+body{
+    padding:0px;
+    margin:0px;
+    font-family:'helvetica';
+    color: black;
+  }
+  
+  body {
+    background-color: #FFF;
+  }
+  
+  .content {
+    /* padding: 50px; */
+    font-size: 19px;
+    line-height: 1.5;
+    min-height: 3000px;
+  }
+  
+  .scroll-line {
+    position: fixed;
+    top:0;
+    left: 0;
+    height: 12px;
+    background-color: #F4E0A1;
+    z-index: 1;
+  }
+
+  .backgroundCol{
+    width:100%;
+
+  }
+.write{
+  padding: 50px;
+}
+
+
+
+
